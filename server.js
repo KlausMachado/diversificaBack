@@ -28,5 +28,5 @@ app.listen(port, () => {
   console.log(`Server is running on port ${port}`);
 });
 
-//change for this part of the code once we have the info from the database
+//change this part of the code once we have the info from the database
 // app.listen(process.env.PORT, () => console.log('app is running on PORT: '+ process.env.PORT));
