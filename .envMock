@@ -1,0 +1,6 @@
+PORT = 1234
+USERNAME = username
+PASSWORD = test123
+DATABASE = database_name
+DB_PORT = 1234
+HOST = localhost
