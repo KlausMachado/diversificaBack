@@ -1,6 +1,7 @@
 let usuarios = [
-    {userID: 1, name: "Fulano", email: "fulano@teste.com"},
-    {userID: 2, name: "Ciclano", email: "cilano@teste.com"}
+    {userID: 1, name: "Teste1", email: "teste1@teste.com"},
+    {userID: 2, name: "Teste2", email: "teste2@teste.com"},
+    {userID: 3, name: "Teste3", email: "teste3@teste.com"}
 ]
 
 class UserController {
